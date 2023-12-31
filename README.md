@@ -9,9 +9,9 @@
 <h4>Install Linux / Termux</h4>
 <p>apt upgrade & update -y</p>
 <p>apt install python3 git -y</p>
-<p>git clone https://github.com/Raz-Ahamed/CCTV_Hack</p>
+<p>git clone https://github.com/mastertgtool/CCTV-CAMERA.git</p>
 <p>pip install -r requirements.txt</p>
-<p>cd CCTV_Hack</p>
+<p>cd CCTV-CAMERA</p>
 <p>chmod +x *</p>
 <p>python3 cctv.py</p>
 
